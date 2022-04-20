@@ -1,6 +1,6 @@
 ##include<stdio.h>
 struct process{
-    int pid, at,bt,et,ft,tat,wt;        //process id=pid   arival time burst time waiting time turnaround time
+    int pid, at,bt,et,ft,tat,wt;        //process id,arival time ,burst time, waiting time, turnaround time
 }p[10];
 void main(){
     struct process temp;
