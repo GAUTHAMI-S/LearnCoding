@@ -1,2 +1,2 @@
 # CODECRACKING
-# solution for programming question....
+ solution for programming questions. 
